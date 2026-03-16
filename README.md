@@ -58,39 +58,39 @@ KopivoSecurity runs every cryptographic and privacy operation natively inside th
 
 | Tool | Description |
 |---|---|
-| **Cifrar Mensaje** | Encrypt and decrypt text messages using AES-256-GCM. No key ever leaves the browser. |
-| **Generar Clave** | Generate cryptographically secure random keys of any length and encoding (Base64, Hex). |
-| **Generar Frase** | Build strong, human-readable passphrases using entropy-based wordlist generation. |
-| **Generador 2FA** | Generate TOTP-compatible 2FA secrets and QR codes for use with any authenticator app. |
-| **Conversor Base64** | Encode and decode text, files, or binary data to and from Base64 format. |
+| **Encrypt Message** | Encrypt and decrypt text messages using AES-256-GCM. No key ever leaves the browser. |
+| **Generate Key** | Generate cryptographically secure random keys of any length and encoding (Base64, Hex). |
+| **Generate Key** | Build strong, human-readable passphrases using entropy-based wordlist generation. |
+| **2FA Generator** | Generate TOTP-compatible 2FA secrets and QR codes for use with any authenticator app. |
+| **Base64 Converter** | Encode and decode text, files, or binary data to and from Base64 format. |
 
 ### 🗂️ Privacidad de Archivos — 4 modules
 
 | Tool | Description |
 |---|---|
-| **Cifrar Archivo** | Encrypt any file with a passphrase using AES-256. The output is a portable, encrypted blob. |
-| **Limpiar Imagen** | Strip all EXIF metadata — GPS, device info, timestamps — from image files before sharing. |
-| **Ocultar en Imagen** | Embed hidden text or data inside image files using LSB steganography. |
-| **Destruir Archivo** | Overwrite file contents with random data before deletion to prevent forensic recovery. |
+| **Encrypt File** | Encrypt any file with a passphrase using AES-256. The output is a portable, encrypted blob. |
+| **Clear Image** | Strip all EXIF metadata — GPS, device info, timestamps — from image files before sharing. |
+| **Hide in Image** | Embed hidden text or data inside image files using LSB steganography. |
+| **Destroy File** | Overwrite file contents with random data before deletion to prevent forensic recovery. |
 
 ### 🔍 Seguridad y Auditoría — 5 modules
 
 | Tool | Description |
 |---|---|
-| **Ver Metadatos** | Inspect the full metadata payload of any file — EXIF, ID3, document properties, and more. |
-| **Auditar Clave** | Analyze password and key strength: entropy, character distribution, and crack-time estimate. |
-| **Generar Hash** | Compute cryptographic hashes (MD5, SHA-1, SHA-256, SHA-512) for any file or text string. |
-| **Validar Hash** | Verify file integrity by comparing its computed hash against a known reference value. |
-| **Limpiar Enlace** | Strip tracking parameters (UTM, fbclid, gclid, etc.) from any URL before sharing. |
+| **See Metadata** | Inspect the full metadata payload of any file — EXIF, ID3, document properties, and more. |
+| **Audit Key** | Analyze password and key strength: entropy, character distribution, and crack-time estimate. |
+| **Generate Hash** | Compute cryptographic hashes (MD5, SHA-1, SHA-256, SHA-512) for any file or text string. |
+| **Validate Hash** | Verify file integrity by comparing its computed hash against a known reference value. |
+| **Clear Link** | Strip tracking parameters (UTM, fbclid, gclid, etc.) from any URL before sharing. |
 
 ### 👤 Identidad y Rastreo — 4 modules
 
 | Tool | Description |
 |---|---|
-| **Perfil Falso** | Generate complete synthetic identities (name, address, DOC, email) for testing and privacy. |
-| **Huella del Navegador** | Reveal your full browser fingerprint — entropy, uniqueness score, and exposed signals. |
-| **Fuga de IP / VPN** | Detect real IP leaks via WebRTC, DNS, and IPv6 — even through active VPN connections. |
-| **Test de Adblock** | Audit which tracking scripts, ad networks, and telemetry beacons your browser is blocking. |
+| **Fake Profile** | Generate complete synthetic identities (name, address, DOC, email) for testing and privacy. |
+| **Browser Footprint** | Reveal your full browser fingerprint — entropy, uniqueness score, and exposed signals. |
+| **IP/VPN Leak** | Detect real IP leaks via WebRTC, DNS, and IPv6 — even through active VPN connections. |
+| **Adblock Test** | Audit which tracking scripts, ad networks, and telemetry beacons your browser is blocking. |
 
 ---
 
