@@ -1,4 +1,4 @@
-# PrivateSecurity: The Ultimate Private Security Suite
+# <img src="https://security.kopivo.com/favicon.ico" width="32" height="32" /> # PrivateSecurity: The Ultimate Private Security Suite
 
 ![Tech: Web Crypto API](https://img.shields.io/badge/Engine-Web_Crypto_API-blueviolet?style=for-the-badge&logo=webassembly)
 ![Tech: Client-Side](https://img.shields.io/badge/Powered_by-WebAssembly-654FF0?style=for-the-badge&logo=webassembly)
