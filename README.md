@@ -1,4 +1,4 @@
-# KopivoSecurity: The Ultimate Private Security Suite
+# PrivateSecurity: The Ultimate Private Security Suite
 
 ![Tech: Web Crypto API](https://img.shields.io/badge/Engine-Web_Crypto_API-blueviolet?style=for-the-badge&logo=webassembly)
 ![Tech: Client-Side](https://img.shields.io/badge/Powered_by-WebAssembly-654FF0?style=for-the-badge&logo=webassembly)
@@ -6,7 +6,7 @@
 ![Architecture: Serverless](https://img.shields.io/badge/Architecture-Serverless-orange?style=for-the-badge)
 ![Built with: Svelte 5](https://img.shields.io/badge/Built_with-Svelte_5-FF3E00?style=for-the-badge&logo=svelte)
 
-**KopivoSecurity** is a professional-grade, browser-native cryptography and privacy toolkit — and a core pillar of the **Kopivo Suite**. It operates under a strict **Zero-Knowledge architecture**, executing every cryptographic operation directly in the user's browser via the **Web Crypto API** and **WebAssembly**.
+**PrivateSecurity** is a professional-grade, browser-native cryptography and privacy toolkit — and a core pillar of the **Kopivo Suite**. It operates under a strict **Zero-Knowledge architecture**, executing every cryptographic operation directly in the user's browser via the **Web Crypto API** and **WebAssembly**.
 
 > The world's first serverless, privacy-first security suite. No uploads, no servers, 100% local.
 
