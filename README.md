@@ -129,7 +129,7 @@ KopivoSecurity is one pillar of the broader **Kopivo** privacy-first productivit
 | **Kopivo PDF** | PDF management & editing | [pdf.kopivo.com](https://pdf.kopivo.com/) |
 | **Kopivo Media** | Video & audio processing | [media.kopivo.com](https://media.kopivo.com/) |
 | **Kopivo Security** | Cryptography & privacy tools | [security.kopivo.com](https://security.kopivo.com/) |
-| **Kopivo Devs** | Developer toolkit | [devs.kopivo.com](https://devs.kopivo.com/)
+| **Kopivo Devs** | Developer toolkit | [dev.kopivo.com](https://dev.kopivo.com/)
 ---
 
 ## 💬 Support & Contribution
